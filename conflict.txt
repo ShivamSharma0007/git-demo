@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"A content" 
-=======
-"B content" 
->>>>>>> branchB
+"A content"
+
